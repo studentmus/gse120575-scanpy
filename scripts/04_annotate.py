@@ -31,33 +31,34 @@ MARKERS = {
 }
 
 # Assigned by hand from the printed marker table (mean log2(TPM+1) per cluster).
-# T-cell rules: HAVCR2/PDCD1 >= ~3.5 -> exhausted; TCF7 >= 3.5 with IL7R -> memory-like;
-# T clusters with no clear profile (CD8 ~5-6, CD4 ~2, moderate PD1) stay "T mixed".
+# T-cell rules: CD8A high with HAVCR2 and PDCD1 >= ~4 -> exhausted; TCF7 >= 3.5 with
+# IL7R and low HAVCR2 -> memory-like; MKI67/TOP2A high -> cycling. T clusters with no
+# clear profile (CD8 ~5-6, CD4 ~2, moderate PD1, or CD4-CD8- like 11) stay "T mixed".
 CLUSTER_LABELS = {
-    "0": "NK",                       # GNLY 9.5, KLRD1 6.4, CD3E low
-    "1": "T mixed",
-    "2": "T memory-like (TCF7+)",    # CD8A 6.2, TCF7 3.5, IL7R 5.0, HAVCR2 0.6
-    "3": "T memory-like (TCF7+)",    # TCF7 3.7, IL7R 5.9, CCR7 3.4
-    "4": "CD8 T cytotoxic",          # CD8A 7.1, KLRD1 4.7, HAVCR2 2.2
-    "5": "T mixed",
+    "0": "NK",                       # GNLY 10.3, KLRD1 6.5, CD3E lower than T clusters
+    "1": "CD8 T exhausted",          # CD8A 8.8, PDCD1 5.3, HAVCR2 4.9, TCF7 0.9
+    "2": "T mixed",
+    "3": "T memory-like (TCF7+)",    # TCF7 3.6, IL7R 5.9, CCR7 3.1, HAVCR2 0.8
+    "4": "Treg",                     # CD4 6.6, FOXP3 3.3, IL2RA 4.2
+    "5": "T cycling",                # MKI67 5.3, TOP2A 6.2 (mostly CD8)
     "6": "T mixed",
-    "7": "Treg",                     # CD4 6.2, FOXP3 3.0, IL2RA 3.7
-    "8": "B",                        # CD19 5.8, MS4A1 7.2
+    "7": "CD8 T cytotoxic",          # CD8A 8.2, KLRD1 3.2, HAVCR2 2.8, TCF7 1.6
+    "8": "T mixed",
     "9": "T mixed",
-    "10": "CD8 T exhausted",         # PDCD1 5.5, HAVCR2 6.1, ENTPD1 3.5, TCF7 0.7
-    "11": "T mixed",
-    "12": "pDC",                     # LILRA4 10.0, IGJ 11.5
-    "13": "CD8 T exhausted",         # HAVCR2 3.7, PDCD1 3.7, LAG3 3.2
-    "14": "Unclear (T+myeloid)",     # CD3E and CD68 both ~3-4: likely doublets, 83 cells
-    "15": "T mixed",
-    "16": "T cycling",               # MKI67 5.9, TOP2A 6.8
-    "17": "Mono/macrophage",         # LYZ 10.8, CD68 7.7, CD14 6.6
-    "18": "Mono/macrophage",         # CD14 11.0, CD68 9.6
-    "19": "T mixed",
+    "10": "pDC",                     # LILRA4 10.1, IGJ 11.9
+    "11": "T mixed",                 # CD3E+, CD8A/CD4 ~0, GNLY 4.6: CD4-CD8- T
+    "12": "CD8 T exhausted",         # CD8A 7.6, HAVCR2 4.2, PDCD1 4.0, LAG3 4.0
+    "13": "Mono/macrophage",         # CD14 9.7, CD68 8.9
+    "14": "Mono/macrophage",         # LYZ 10.8, CD68 7.7, CD14 6.7
+    "15": "B",                       # CD19 6.7, MS4A1 9.5
+    "16": "Plasma",                  # MZB1 9.4, IGJ 10.8
+    "17": "B",                       # CD19 6.2, CCR7 6.5 (naive-like B)
+    "18": "T mixed",
+    "19": "T memory-like (TCF7+)",   # CD8A 6.7, TCF7 3.5, IL7R 4.8, HAVCR2 0.7
     "20": "T mixed",
-    "21": "B",                       # MS4A1 9.1
-    "22": "Plasma",                  # MZB1 9.6, IGJ 9.8
-    "23": "B",                       # CD19 6.0, CCR7 7.2 (naive-like B)
+    "21": "T cycling",               # MKI67 5.7, TOP2A 6.8
+    "22": "B",                       # CD19 6.1, MS4A1 7.7
+    "23": "T memory-like (TCF7+)",   # TCF7 4.7, IL7R 3.9, SELL 3.3
 }
 
 adata = sc.read_h5ad(IN)

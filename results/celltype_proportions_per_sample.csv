@@ -1,246 +1,246 @@
 sample,response,timepoint,patient,cell_type,fraction
 Post_P1,Responder,Post,P1,B,0.010869565217391304
-Post_P10,Non-responder,Post,P10,B,0.07323232323232323
+Post_P10,Non-responder,Post,P10,B,0.047979797979797977
 Post_P11,Non-responder,Post,P11,B,0.003194888178913738
-Post_P12,Non-responder,Post,P12,B,0.006191950464396285
-Post_P13,Non-responder,Post,P13,B,0.28125
+Post_P12,Non-responder,Post,P12,B,0.0030959752321981426
+Post_P13,Non-responder,Post,P13,B,0.2767857142857143
 Post_P14,Non-responder,Post,P14,B,0.057750759878419454
 Post_P15,Non-responder,Post,P15,B,0.019736842105263157
-Post_P16,Non-responder,Post,P16,B,0.019438444924406047
-Post_P17,Responder,Post,P17,B,0.1601423487544484
+Post_P16,Non-responder,Post,P16,B,0.02159827213822894
+Post_P17,Responder,Post,P17,B,0.16370106761565836
 Post_P18,Non-responder,Post,P18,B,0.47058823529411764
 Post_P19,Responder,Post,P19,B,0.2679900744416873
-Post_P1_2,Non-responder,Post,P1,B,0.09686609686609686
+Post_P1_2,Non-responder,Post,P1,B,0.08831908831908832
 Post_P2,Non-responder,Post,P2,B,0.0160857908847185
-Post_P20,Non-responder,Post,P20,B,0.04748603351955307
-Post_P21,Responder,Post,P21,B,0.3380281690140845
-Post_P22,Non-responder,Post,P22,B,0.007692307692307693
-Post_P23,Non-responder,Post,P23,B,0.0223463687150838
-Post_P23_2,Non-responder,Post,P23,B,0.03314917127071823
+Post_P20,Non-responder,Post,P20,B,0.04189944134078212
+Post_P21,Responder,Post,P21,B,0.22065727699530516
+Post_P22,Non-responder,Post,P22,B,0.0038461538461538464
+Post_P23,Non-responder,Post,P23,B,0.019553072625698324
+Post_P23_2,Non-responder,Post,P23,B,0.027624309392265192
 Post_P28,Non-responder,Post,P28,B,0.0
 Post_P28_2,Non-responder,Post,P28,B,0.0
 Post_P3,Non-responder,Post,P3,B,0.0
-Post_P30,Non-responder,Post,P30,B,0.013550135501355014
-Post_P3_2,Non-responder,Post,P3,B,0.008379888268156424
+Post_P30,Non-responder,Post,P30,B,0.01084010840108401
+Post_P3_2,Non-responder,Post,P3,B,0.00558659217877095
 Post_P4,Responder,Post,P4,B,0.36268656716417913
 Post_P5,Non-responder,Post,P5,B,0.00684931506849315
 Post_P5_2,Responder,Post,P5,B,0.005952380952380952
 Post_P6,Non-responder,Post,P6,B,0.0275
 Post_P7,Responder,Post,P7,B,0.012987012987012988
-Post_P8,Responder,Post,P8,B,0.3251833740831296
+Post_P8,Responder,Post,P8,B,0.3276283618581907
 Pre_P1,Responder,Pre,P1,B,0.0
-Pre_P12,Non-responder,Pre,P12,B,0.00909090909090909
+Pre_P12,Non-responder,Pre,P12,B,0.006060606060606061
 Pre_P15,Non-responder,Pre,P15,B,0.013157894736842105
 Pre_P2,Non-responder,Pre,P2,B,0.01818181818181818
-Pre_P20,Non-responder,Pre,P20,B,0.02476780185758514
+Pre_P20,Non-responder,Pre,P20,B,0.021671826625386997
 Pre_P24,Responder,Pre,P24,B,0.03550295857988166
 Pre_P25,Non-responder,Pre,P25,B,0.0
-Pre_P26,Responder,Pre,P26,B,0.5765765765765766
+Pre_P26,Responder,Pre,P26,B,0.5735735735735735
 Pre_P27,Non-responder,Pre,P27,B,0.0029154518950437317
 Pre_P28,Responder,Pre,P28,B,0.011869436201780416
-Pre_P29,Responder,Pre,P29,B,0.06748466257668712
+Pre_P29,Responder,Pre,P29,B,0.06134969325153374
 Pre_P3,Non-responder,Pre,P3,B,0.046218487394957986
 Pre_P31,Non-responder,Pre,P31,B,0.014245014245014245
-Pre_P33,Responder,Pre,P33,B,0.13938053097345132
+Pre_P33,Responder,Pre,P33,B,0.13495575221238937
 Pre_P35,Responder,Pre,P35,B,0.453781512605042
 Pre_P4,Non-responder,Pre,P4,B,0.04590163934426229
-Pre_P6,Non-responder,Pre,P6,B,0.1297071129707113
+Pre_P6,Non-responder,Pre,P6,B,0.1087866108786611
 Pre_P7,Responder,Pre,P7,B,0.1358695652173913
 Pre_P8,Responder,Pre,P8,B,0.09363295880149813
-Post_P1,Responder,Post,P1,CD8 T cytotoxic,0.07608695652173914
-Post_P10,Non-responder,Post,P10,CD8 T cytotoxic,0.08080808080808081
-Post_P11,Non-responder,Post,P11,CD8 T cytotoxic,0.05750798722044728
-Post_P12,Non-responder,Post,P12,CD8 T cytotoxic,0.06191950464396285
-Post_P13,Non-responder,Post,P13,CD8 T cytotoxic,0.044642857142857144
-Post_P14,Non-responder,Post,P14,CD8 T cytotoxic,0.08206686930091185
-Post_P15,Non-responder,Post,P15,CD8 T cytotoxic,0.03618421052631579
-Post_P16,Non-responder,Post,P16,CD8 T cytotoxic,0.08423326133909287
-Post_P17,Responder,Post,P17,CD8 T cytotoxic,0.09608540925266904
-Post_P18,Non-responder,Post,P18,CD8 T cytotoxic,0.025210084033613446
-Post_P19,Responder,Post,P19,CD8 T cytotoxic,0.07196029776674938
-Post_P1_2,Non-responder,Post,P1,CD8 T cytotoxic,0.13675213675213677
-Post_P2,Non-responder,Post,P2,CD8 T cytotoxic,0.09115281501340483
-Post_P20,Non-responder,Post,P20,CD8 T cytotoxic,0.07541899441340782
-Post_P21,Responder,Post,P21,CD8 T cytotoxic,0.023474178403755867
-Post_P22,Non-responder,Post,P22,CD8 T cytotoxic,0.057692307692307696
-Post_P23,Non-responder,Post,P23,CD8 T cytotoxic,0.07541899441340782
-Post_P23_2,Non-responder,Post,P23,CD8 T cytotoxic,0.12430939226519337
+Post_P1,Responder,Post,P1,CD8 T cytotoxic,0.007246376811594203
+Post_P10,Non-responder,Post,P10,CD8 T cytotoxic,0.03787878787878788
+Post_P11,Non-responder,Post,P11,CD8 T cytotoxic,0.07987220447284345
+Post_P12,Non-responder,Post,P12,CD8 T cytotoxic,0.08978328173374613
+Post_P13,Non-responder,Post,P13,CD8 T cytotoxic,0.015625
+Post_P14,Non-responder,Post,P14,CD8 T cytotoxic,0.03343465045592705
+Post_P15,Non-responder,Post,P15,CD8 T cytotoxic,0.05263157894736842
+Post_P16,Non-responder,Post,P16,CD8 T cytotoxic,0.04103671706263499
+Post_P17,Responder,Post,P17,CD8 T cytotoxic,0.23487544483985764
+Post_P18,Non-responder,Post,P18,CD8 T cytotoxic,0.028011204481792718
+Post_P19,Responder,Post,P19,CD8 T cytotoxic,0.04218362282878412
+Post_P1_2,Non-responder,Post,P1,CD8 T cytotoxic,0.1168091168091168
+Post_P2,Non-responder,Post,P2,CD8 T cytotoxic,0.01876675603217158
+Post_P20,Non-responder,Post,P20,CD8 T cytotoxic,0.025139664804469275
+Post_P21,Responder,Post,P21,CD8 T cytotoxic,0.04225352112676056
+Post_P22,Non-responder,Post,P22,CD8 T cytotoxic,0.007692307692307693
+Post_P23,Non-responder,Post,P23,CD8 T cytotoxic,0.036312849162011177
+Post_P23_2,Non-responder,Post,P23,CD8 T cytotoxic,0.04419889502762431
 Post_P28,Non-responder,Post,P28,CD8 T cytotoxic,0.0
-Post_P28_2,Non-responder,Post,P28,CD8 T cytotoxic,0.056451612903225805
-Post_P3,Non-responder,Post,P3,CD8 T cytotoxic,0.09803921568627451
-Post_P30,Non-responder,Post,P30,CD8 T cytotoxic,0.15718157181571815
-Post_P3_2,Non-responder,Post,P3,CD8 T cytotoxic,0.19553072625698323
-Post_P4,Responder,Post,P4,CD8 T cytotoxic,0.049253731343283584
-Post_P5,Non-responder,Post,P5,CD8 T cytotoxic,0.06164383561643835
-Post_P5_2,Responder,Post,P5,CD8 T cytotoxic,0.09523809523809523
-Post_P6,Non-responder,Post,P6,CD8 T cytotoxic,0.035
-Post_P7,Responder,Post,P7,CD8 T cytotoxic,0.05194805194805195
-Post_P8,Responder,Post,P8,CD8 T cytotoxic,0.05378973105134474
-Pre_P1,Responder,Pre,P1,CD8 T cytotoxic,0.11790393013100436
-Pre_P12,Non-responder,Pre,P12,CD8 T cytotoxic,0.07878787878787878
-Pre_P15,Non-responder,Pre,P15,CD8 T cytotoxic,0.03618421052631579
-Pre_P2,Non-responder,Pre,P2,CD8 T cytotoxic,0.07272727272727272
-Pre_P20,Non-responder,Pre,P20,CD8 T cytotoxic,0.058823529411764705
-Pre_P24,Responder,Pre,P24,CD8 T cytotoxic,0.038461538461538464
-Pre_P25,Non-responder,Pre,P25,CD8 T cytotoxic,0.09164420485175202
-Pre_P26,Responder,Pre,P26,CD8 T cytotoxic,0.009009009009009009
-Pre_P27,Non-responder,Pre,P27,CD8 T cytotoxic,0.0728862973760933
-Pre_P28,Responder,Pre,P28,CD8 T cytotoxic,0.11275964391691394
-Pre_P29,Responder,Pre,P29,CD8 T cytotoxic,0.0
-Pre_P3,Non-responder,Pre,P3,CD8 T cytotoxic,0.10084033613445378
-Pre_P31,Non-responder,Pre,P31,CD8 T cytotoxic,0.03133903133903134
-Pre_P33,Responder,Pre,P33,CD8 T cytotoxic,0.030973451327433628
-Pre_P35,Responder,Pre,P35,CD8 T cytotoxic,0.012605042016806723
-Pre_P4,Non-responder,Pre,P4,CD8 T cytotoxic,0.04918032786885246
-Pre_P6,Non-responder,Pre,P6,CD8 T cytotoxic,0.02092050209205021
+Post_P28_2,Non-responder,Post,P28,CD8 T cytotoxic,0.013440860215053764
+Post_P3,Non-responder,Post,P3,CD8 T cytotoxic,0.056022408963585436
+Post_P30,Non-responder,Post,P30,CD8 T cytotoxic,0.051490514905149054
+Post_P3_2,Non-responder,Post,P3,CD8 T cytotoxic,0.0670391061452514
+Post_P4,Responder,Post,P4,CD8 T cytotoxic,0.011940298507462687
+Post_P5,Non-responder,Post,P5,CD8 T cytotoxic,0.07534246575342465
+Post_P5_2,Responder,Post,P5,CD8 T cytotoxic,0.28869047619047616
+Post_P6,Non-responder,Post,P6,CD8 T cytotoxic,0.015
+Post_P7,Responder,Post,P7,CD8 T cytotoxic,0.1038961038961039
+Post_P8,Responder,Post,P8,CD8 T cytotoxic,0.07334963325183375
+Pre_P1,Responder,Pre,P1,CD8 T cytotoxic,0.013100436681222707
+Pre_P12,Non-responder,Pre,P12,CD8 T cytotoxic,0.1393939393939394
+Pre_P15,Non-responder,Pre,P15,CD8 T cytotoxic,0.023026315789473683
+Pre_P2,Non-responder,Pre,P2,CD8 T cytotoxic,0.051515151515151514
+Pre_P20,Non-responder,Pre,P20,CD8 T cytotoxic,0.06501547987616099
+Pre_P24,Responder,Pre,P24,CD8 T cytotoxic,0.0621301775147929
+Pre_P25,Non-responder,Pre,P25,CD8 T cytotoxic,0.05121293800539083
+Pre_P26,Responder,Pre,P26,CD8 T cytotoxic,0.0
+Pre_P27,Non-responder,Pre,P27,CD8 T cytotoxic,0.06705539358600583
+Pre_P28,Responder,Pre,P28,CD8 T cytotoxic,0.050445103857566766
+Pre_P29,Responder,Pre,P29,CD8 T cytotoxic,0.03067484662576687
+Pre_P3,Non-responder,Pre,P3,CD8 T cytotoxic,0.02100840336134454
+Pre_P31,Non-responder,Pre,P31,CD8 T cytotoxic,0.017094017094017096
+Pre_P33,Responder,Pre,P33,CD8 T cytotoxic,0.08185840707964602
+Pre_P35,Responder,Pre,P35,CD8 T cytotoxic,0.025210084033613446
+Pre_P4,Non-responder,Pre,P4,CD8 T cytotoxic,0.013114754098360656
+Pre_P6,Non-responder,Pre,P6,CD8 T cytotoxic,0.016736401673640166
 Pre_P7,Responder,Pre,P7,CD8 T cytotoxic,0.019021739130434784
-Pre_P8,Responder,Pre,P8,CD8 T cytotoxic,0.00749063670411985
-Post_P1,Responder,Post,P1,CD8 T exhausted,0.04710144927536232
-Post_P10,Non-responder,Post,P10,CD8 T exhausted,0.2702020202020202
-Post_P11,Non-responder,Post,P11,CD8 T exhausted,0.14696485623003194
-Post_P12,Non-responder,Post,P12,CD8 T exhausted,0.29411764705882354
-Post_P13,Non-responder,Post,P13,CD8 T exhausted,0.25892857142857145
-Post_P14,Non-responder,Post,P14,CD8 T exhausted,0.07598784194528875
-Post_P15,Non-responder,Post,P15,CD8 T exhausted,0.07894736842105263
-Post_P16,Non-responder,Post,P16,CD8 T exhausted,0.08207343412526998
-Post_P17,Responder,Post,P17,CD8 T exhausted,0.03558718861209965
-Post_P18,Non-responder,Post,P18,CD8 T exhausted,0.011204481792717087
-Post_P19,Responder,Post,P19,CD8 T exhausted,0.03970223325062035
-Post_P1_2,Non-responder,Post,P1,CD8 T exhausted,0.17094017094017094
-Post_P2,Non-responder,Post,P2,CD8 T exhausted,0.2734584450402145
-Post_P20,Non-responder,Post,P20,CD8 T exhausted,0.3240223463687151
-Post_P21,Responder,Post,P21,CD8 T exhausted,0.023474178403755867
-Post_P22,Non-responder,Post,P22,CD8 T exhausted,0.007692307692307693
-Post_P23,Non-responder,Post,P23,CD8 T exhausted,0.1340782122905028
-Post_P23_2,Non-responder,Post,P23,CD8 T exhausted,0.09944751381215469
+Pre_P8,Responder,Pre,P8,CD8 T cytotoxic,0.026217228464419477
+Post_P1,Responder,Post,P1,CD8 T exhausted,0.06521739130434782
+Post_P10,Non-responder,Post,P10,CD8 T exhausted,0.1717171717171717
+Post_P11,Non-responder,Post,P11,CD8 T exhausted,0.25559105431309903
+Post_P12,Non-responder,Post,P12,CD8 T exhausted,0.43343653250773995
+Post_P13,Non-responder,Post,P13,CD8 T exhausted,0.05803571428571429
+Post_P14,Non-responder,Post,P14,CD8 T exhausted,0.0668693009118541
+Post_P15,Non-responder,Post,P15,CD8 T exhausted,0.07236842105263158
+Post_P16,Non-responder,Post,P16,CD8 T exhausted,0.1079913606911447
+Post_P17,Responder,Post,P17,CD8 T exhausted,0.042704626334519574
+Post_P18,Non-responder,Post,P18,CD8 T exhausted,0.04201680672268908
+Post_P19,Responder,Post,P19,CD8 T exhausted,0.02977667493796526
+Post_P1_2,Non-responder,Post,P1,CD8 T exhausted,0.21652421652421652
+Post_P2,Non-responder,Post,P2,CD8 T exhausted,0.3806970509383378
+Post_P20,Non-responder,Post,P20,CD8 T exhausted,0.11173184357541899
+Post_P21,Responder,Post,P21,CD8 T exhausted,0.046948356807511735
+Post_P22,Non-responder,Post,P22,CD8 T exhausted,0.046153846153846156
+Post_P23,Non-responder,Post,P23,CD8 T exhausted,0.23743016759776536
+Post_P23_2,Non-responder,Post,P23,CD8 T exhausted,0.21823204419889503
 Post_P28,Non-responder,Post,P28,CD8 T exhausted,0.0027100271002710027
-Post_P28_2,Non-responder,Post,P28,CD8 T exhausted,0.10483870967741936
-Post_P3,Non-responder,Post,P3,CD8 T exhausted,0.09523809523809523
-Post_P30,Non-responder,Post,P30,CD8 T exhausted,0.056910569105691054
-Post_P3_2,Non-responder,Post,P3,CD8 T exhausted,0.04748603351955307
-Post_P4,Responder,Post,P4,CD8 T exhausted,0.04029850746268657
-Post_P5,Non-responder,Post,P5,CD8 T exhausted,0.2534246575342466
-Post_P5_2,Responder,Post,P5,CD8 T exhausted,0.25595238095238093
-Post_P6,Non-responder,Post,P6,CD8 T exhausted,0.13
-Post_P7,Responder,Post,P7,CD8 T exhausted,0.14285714285714285
-Post_P8,Responder,Post,P8,CD8 T exhausted,0.16625916870415647
-Pre_P1,Responder,Pre,P1,CD8 T exhausted,0.1615720524017467
-Pre_P12,Non-responder,Pre,P12,CD8 T exhausted,0.1696969696969697
-Pre_P15,Non-responder,Pre,P15,CD8 T exhausted,0.08223684210526316
-Pre_P2,Non-responder,Pre,P2,CD8 T exhausted,0.3333333333333333
-Pre_P20,Non-responder,Pre,P20,CD8 T exhausted,0.2476780185758514
-Pre_P24,Responder,Pre,P24,CD8 T exhausted,0.023668639053254437
-Pre_P25,Non-responder,Pre,P25,CD8 T exhausted,0.16981132075471697
-Pre_P26,Responder,Pre,P26,CD8 T exhausted,0.012012012012012012
-Pre_P27,Non-responder,Pre,P27,CD8 T exhausted,0.2886297376093295
-Pre_P28,Responder,Pre,P28,CD8 T exhausted,0.04154302670623145
-Pre_P29,Responder,Pre,P29,CD8 T exhausted,0.1165644171779141
-Pre_P3,Non-responder,Pre,P3,CD8 T exhausted,0.029411764705882353
-Pre_P31,Non-responder,Pre,P31,CD8 T exhausted,0.245014245014245
-Pre_P33,Responder,Pre,P33,CD8 T exhausted,0.0752212389380531
-Pre_P35,Responder,Pre,P35,CD8 T exhausted,0.08403361344537816
-Pre_P4,Non-responder,Pre,P4,CD8 T exhausted,0.21967213114754097
-Pre_P6,Non-responder,Pre,P6,CD8 T exhausted,0.04184100418410042
-Pre_P7,Responder,Pre,P7,CD8 T exhausted,0.07336956521739131
-Pre_P8,Responder,Pre,P8,CD8 T exhausted,0.026217228464419477
-Post_P1,Responder,Post,P1,Mono/macrophage,0.03260869565217391
-Post_P10,Non-responder,Post,P10,Mono/macrophage,0.017676767676767676
+Post_P28_2,Non-responder,Post,P28,CD8 T exhausted,0.18548387096774194
+Post_P3,Non-responder,Post,P3,CD8 T exhausted,0.1876750700280112
+Post_P30,Non-responder,Post,P30,CD8 T exhausted,0.1842818428184282
+Post_P3_2,Non-responder,Post,P3,CD8 T exhausted,0.1787709497206704
+Post_P4,Responder,Post,P4,CD8 T exhausted,0.016417910447761194
+Post_P5,Non-responder,Post,P5,CD8 T exhausted,0.2568493150684932
+Post_P5_2,Responder,Post,P5,CD8 T exhausted,0.19940476190476192
+Post_P6,Non-responder,Post,P6,CD8 T exhausted,0.0475
+Post_P7,Responder,Post,P7,CD8 T exhausted,0.15584415584415584
+Post_P8,Responder,Post,P8,CD8 T exhausted,0.06356968215158924
+Pre_P1,Responder,Pre,P1,CD8 T exhausted,0.1703056768558952
+Pre_P12,Non-responder,Pre,P12,CD8 T exhausted,0.19393939393939394
+Pre_P15,Non-responder,Pre,P15,CD8 T exhausted,0.12171052631578948
+Pre_P2,Non-responder,Pre,P2,CD8 T exhausted,0.35454545454545455
+Pre_P20,Non-responder,Pre,P20,CD8 T exhausted,0.2260061919504644
+Pre_P24,Responder,Pre,P24,CD8 T exhausted,0.05325443786982249
+Pre_P25,Non-responder,Pre,P25,CD8 T exhausted,0.3692722371967655
+Pre_P26,Responder,Pre,P26,CD8 T exhausted,0.024024024024024024
+Pre_P27,Non-responder,Pre,P27,CD8 T exhausted,0.40816326530612246
+Pre_P28,Responder,Pre,P28,CD8 T exhausted,0.13353115727002968
+Pre_P29,Responder,Pre,P29,CD8 T exhausted,0.18404907975460122
+Pre_P3,Non-responder,Pre,P3,CD8 T exhausted,0.1092436974789916
+Pre_P31,Non-responder,Pre,P31,CD8 T exhausted,0.3789173789173789
+Pre_P33,Responder,Pre,P33,CD8 T exhausted,0.033185840707964605
+Pre_P35,Responder,Pre,P35,CD8 T exhausted,0.10504201680672269
+Pre_P4,Non-responder,Pre,P4,CD8 T exhausted,0.22295081967213115
+Pre_P6,Non-responder,Pre,P6,CD8 T exhausted,0.008368200836820083
+Pre_P7,Responder,Pre,P7,CD8 T exhausted,0.16576086956521738
+Pre_P8,Responder,Pre,P8,CD8 T exhausted,0.033707865168539325
+Post_P1,Responder,Post,P1,Mono/macrophage,0.036231884057971016
+Post_P10,Non-responder,Post,P10,Mono/macrophage,0.020202020202020204
 Post_P11,Non-responder,Post,P11,Mono/macrophage,0.10223642172523961
-Post_P12,Non-responder,Post,P12,Mono/macrophage,0.018575851393188854
+Post_P12,Non-responder,Post,P12,Mono/macrophage,0.02786377708978328
 Post_P13,Non-responder,Post,P13,Mono/macrophage,0.015625
-Post_P14,Non-responder,Post,P14,Mono/macrophage,0.1945288753799392
-Post_P15,Non-responder,Post,P15,Mono/macrophage,0.08552631578947369
-Post_P16,Non-responder,Post,P16,Mono/macrophage,0.023758099352051837
-Post_P17,Responder,Post,P17,Mono/macrophage,0.0071174377224199285
-Post_P18,Non-responder,Post,P18,Mono/macrophage,0.008403361344537815
-Post_P19,Responder,Post,P19,Mono/macrophage,0.05459057071960298
-Post_P1_2,Non-responder,Post,P1,Mono/macrophage,0.011396011396011397
-Post_P2,Non-responder,Post,P2,Mono/macrophage,0.010723860589812333
+Post_P14,Non-responder,Post,P14,Mono/macrophage,0.20364741641337386
+Post_P15,Non-responder,Post,P15,Mono/macrophage,0.09210526315789473
+Post_P16,Non-responder,Post,P16,Mono/macrophage,0.047516198704103674
+Post_P17,Responder,Post,P17,Mono/macrophage,0.06761565836298933
+Post_P18,Non-responder,Post,P18,Mono/macrophage,0.0196078431372549
+Post_P19,Responder,Post,P19,Mono/macrophage,0.0794044665012407
+Post_P1_2,Non-responder,Post,P1,Mono/macrophage,0.017094017094017096
+Post_P2,Non-responder,Post,P2,Mono/macrophage,0.0160857908847185
 Post_P20,Non-responder,Post,P20,Mono/macrophage,0.008379888268156424
-Post_P21,Responder,Post,P21,Mono/macrophage,0.004694835680751174
-Post_P22,Non-responder,Post,P22,Mono/macrophage,0.03076923076923077
-Post_P23,Non-responder,Post,P23,Mono/macrophage,0.09776536312849161
-Post_P23_2,Non-responder,Post,P23,Mono/macrophage,0.008287292817679558
-Post_P28,Non-responder,Post,P28,Mono/macrophage,0.943089430894309
+Post_P21,Responder,Post,P21,Mono/macrophage,0.009389671361502348
+Post_P22,Non-responder,Post,P22,Mono/macrophage,0.05
+Post_P23,Non-responder,Post,P23,Mono/macrophage,0.10614525139664804
+Post_P23_2,Non-responder,Post,P23,Mono/macrophage,0.019337016574585635
+Post_P28,Non-responder,Post,P28,Mono/macrophage,0.962059620596206
 Post_P28_2,Non-responder,Post,P28,Mono/macrophage,0.25
-Post_P3,Non-responder,Post,P3,Mono/macrophage,0.0700280112044818
-Post_P30,Non-responder,Post,P30,Mono/macrophage,0.16531165311653118
-Post_P3_2,Non-responder,Post,P3,Mono/macrophage,0.036312849162011177
-Post_P4,Responder,Post,P4,Mono/macrophage,0.013432835820895522
+Post_P3,Non-responder,Post,P3,Mono/macrophage,0.08123249299719888
+Post_P30,Non-responder,Post,P30,Mono/macrophage,0.16802168021680217
+Post_P3_2,Non-responder,Post,P3,Mono/macrophage,0.03910614525139665
+Post_P4,Responder,Post,P4,Mono/macrophage,0.014925373134328358
 Post_P5,Non-responder,Post,P5,Mono/macrophage,0.14383561643835616
-Post_P5_2,Responder,Post,P5,Mono/macrophage,0.023809523809523808
-Post_P6,Non-responder,Post,P6,Mono/macrophage,0.145
-Post_P7,Responder,Post,P7,Mono/macrophage,0.09956709956709957
+Post_P5_2,Responder,Post,P5,Mono/macrophage,0.017857142857142856
+Post_P6,Non-responder,Post,P6,Mono/macrophage,0.1475
+Post_P7,Responder,Post,P7,Mono/macrophage,0.1038961038961039
 Post_P8,Responder,Post,P8,Mono/macrophage,0.007334963325183374
-Pre_P1,Responder,Pre,P1,Mono/macrophage,0.013100436681222707
+Pre_P1,Responder,Pre,P1,Mono/macrophage,0.017467248908296942
 Pre_P12,Non-responder,Pre,P12,Mono/macrophage,0.16363636363636364
 Pre_P15,Non-responder,Pre,P15,Mono/macrophage,0.09868421052631579
 Pre_P2,Non-responder,Pre,P2,Mono/macrophage,0.09696969696969697
-Pre_P20,Non-responder,Pre,P20,Mono/macrophage,0.1021671826625387
-Pre_P24,Responder,Pre,P24,Mono/macrophage,0.008875739644970414
+Pre_P20,Non-responder,Pre,P20,Mono/macrophage,0.10835913312693499
+Pre_P24,Responder,Pre,P24,Mono/macrophage,0.01775147928994083
 Pre_P25,Non-responder,Pre,P25,Mono/macrophage,0.0
 Pre_P26,Responder,Pre,P26,Mono/macrophage,0.03903903903903904
-Pre_P27,Non-responder,Pre,P27,Mono/macrophage,0.03498542274052478
+Pre_P27,Non-responder,Pre,P27,Mono/macrophage,0.037900874635568516
 Pre_P28,Responder,Pre,P28,Mono/macrophage,0.008902077151335312
-Pre_P29,Responder,Pre,P29,Mono/macrophage,0.07975460122699386
+Pre_P29,Responder,Pre,P29,Mono/macrophage,0.08588957055214724
 Pre_P3,Non-responder,Pre,P3,Mono/macrophage,0.058823529411764705
 Pre_P31,Non-responder,Pre,P31,Mono/macrophage,0.008547008547008548
 Pre_P33,Responder,Pre,P33,Mono/macrophage,0.0
 Pre_P35,Responder,Pre,P35,Mono/macrophage,0.0
-Pre_P4,Non-responder,Pre,P4,Mono/macrophage,0.3016393442622951
-Pre_P6,Non-responder,Pre,P6,Mono/macrophage,0.2719665271966527
+Pre_P4,Non-responder,Pre,P4,Mono/macrophage,0.30491803278688523
+Pre_P6,Non-responder,Pre,P6,Mono/macrophage,0.27615062761506276
 Pre_P7,Responder,Pre,P7,Mono/macrophage,0.0
 Pre_P8,Responder,Pre,P8,Mono/macrophage,0.15355805243445692
-Post_P1,Responder,Post,P1,NK,0.043478260869565216
-Post_P10,Non-responder,Post,P10,NK,0.027777777777777776
-Post_P11,Non-responder,Post,P11,NK,0.054313099041533544
-Post_P12,Non-responder,Post,P12,NK,0.02786377708978328
-Post_P13,Non-responder,Post,P13,NK,0.008928571428571428
-Post_P14,Non-responder,Post,P14,NK,0.10030395136778116
-Post_P15,Non-responder,Post,P15,NK,0.08223684210526316
-Post_P16,Non-responder,Post,P16,NK,0.04103671706263499
-Post_P17,Responder,Post,P17,NK,0.0
-Post_P18,Non-responder,Post,P18,NK,0.028011204481792718
-Post_P19,Responder,Post,P19,NK,0.07196029776674938
-Post_P1_2,Non-responder,Post,P1,NK,0.02564102564102564
-Post_P2,Non-responder,Post,P2,NK,0.010723860589812333
+Post_P1,Responder,Post,P1,NK,0.06159420289855073
+Post_P10,Non-responder,Post,P10,NK,0.03535353535353535
+Post_P11,Non-responder,Post,P11,NK,0.12779552715654952
+Post_P12,Non-responder,Post,P12,NK,0.034055727554179564
+Post_P13,Non-responder,Post,P13,NK,0.004464285714285714
+Post_P14,Non-responder,Post,P14,NK,0.1398176291793313
+Post_P15,Non-responder,Post,P15,NK,0.05921052631578947
+Post_P16,Non-responder,Post,P16,NK,0.03455723542116631
+Post_P17,Responder,Post,P17,NK,0.021352313167259787
+Post_P18,Non-responder,Post,P18,NK,0.036414565826330535
+Post_P19,Responder,Post,P19,NK,0.12406947890818859
+Post_P1_2,Non-responder,Post,P1,NK,0.037037037037037035
+Post_P2,Non-responder,Post,P2,NK,0.00804289544235925
 Post_P20,Non-responder,Post,P20,NK,0.0111731843575419
-Post_P21,Responder,Post,P21,NK,0.03755868544600939
-Post_P22,Non-responder,Post,P22,NK,0.07307692307692308
-Post_P23,Non-responder,Post,P23,NK,0.05027932960893855
-Post_P23_2,Non-responder,Post,P23,NK,0.03314917127071823
+Post_P21,Responder,Post,P21,NK,0.028169014084507043
+Post_P22,Non-responder,Post,P22,NK,0.11538461538461539
+Post_P23,Non-responder,Post,P23,NK,0.06983240223463687
+Post_P23_2,Non-responder,Post,P23,NK,0.04696132596685083
 Post_P28,Non-responder,Post,P28,NK,0.0
-Post_P28_2,Non-responder,Post,P28,NK,0.008064516129032258
-Post_P3,Non-responder,Post,P3,NK,0.04481792717086835
-Post_P30,Non-responder,Post,P30,NK,0.04065040650406504
-Post_P3_2,Non-responder,Post,P3,NK,0.013966480446927373
-Post_P4,Responder,Post,P4,NK,0.01791044776119403
-Post_P5,Non-responder,Post,P5,NK,0.030821917808219176
+Post_P28_2,Non-responder,Post,P28,NK,0.021505376344086023
+Post_P3,Non-responder,Post,P3,NK,0.0700280112044818
+Post_P30,Non-responder,Post,P30,NK,0.04336043360433604
+Post_P3_2,Non-responder,Post,P3,NK,0.036312849162011177
+Post_P4,Responder,Post,P4,NK,0.005970149253731343
+Post_P5,Non-responder,Post,P5,NK,0.0547945205479452
 Post_P5_2,Responder,Post,P5,NK,0.008928571428571428
-Post_P6,Non-responder,Post,P6,NK,0.005
-Post_P7,Responder,Post,P7,NK,0.0735930735930736
-Post_P8,Responder,Post,P8,NK,0.007334963325183374
-Pre_P1,Responder,Pre,P1,NK,0.07860262008733625
-Pre_P12,Non-responder,Pre,P12,NK,0.12424242424242424
-Pre_P15,Non-responder,Pre,P15,NK,0.09539473684210527
-Pre_P2,Non-responder,Pre,P2,NK,0.030303030303030304
+Post_P6,Non-responder,Post,P6,NK,0.0025
+Post_P7,Responder,Post,P7,NK,0.08225108225108226
+Post_P8,Responder,Post,P8,NK,0.019559902200488997
+Pre_P1,Responder,Pre,P1,NK,0.10480349344978165
+Pre_P12,Non-responder,Pre,P12,NK,0.17575757575757575
+Pre_P15,Non-responder,Pre,P15,NK,0.09868421052631579
+Pre_P2,Non-responder,Pre,P2,NK,0.048484848484848485
 Pre_P20,Non-responder,Pre,P20,NK,0.015479876160990712
-Pre_P24,Responder,Pre,P24,NK,0.011834319526627219
-Pre_P25,Non-responder,Pre,P25,NK,0.16981132075471697
-Pre_P26,Responder,Pre,P26,NK,0.009009009009009009
-Pre_P27,Non-responder,Pre,P27,NK,0.037900874635568516
-Pre_P28,Responder,Pre,P28,NK,0.04451038575667656
-Pre_P29,Responder,Pre,P29,NK,0.018404907975460124
-Pre_P3,Non-responder,Pre,P3,NK,0.1722689075630252
-Pre_P31,Non-responder,Pre,P31,NK,0.019943019943019943
-Pre_P33,Responder,Pre,P33,NK,0.0022123893805309734
-Pre_P35,Responder,Pre,P35,NK,0.08403361344537816
-Pre_P4,Non-responder,Pre,P4,NK,0.02622950819672131
+Pre_P24,Responder,Pre,P24,NK,0.023668639053254437
+Pre_P25,Non-responder,Pre,P25,NK,0.18867924528301888
+Pre_P26,Responder,Pre,P26,NK,0.006006006006006006
+Pre_P27,Non-responder,Pre,P27,NK,0.04081632653061224
+Pre_P28,Responder,Pre,P28,NK,0.08011869436201781
+Pre_P29,Responder,Pre,P29,NK,0.024539877300613498
+Pre_P3,Non-responder,Pre,P3,NK,0.21428571428571427
+Pre_P31,Non-responder,Pre,P31,NK,0.02849002849002849
+Pre_P33,Responder,Pre,P33,NK,0.011061946902654867
+Pre_P35,Responder,Pre,P35,NK,0.07563025210084033
+Pre_P4,Non-responder,Pre,P4,NK,0.03278688524590164
 Pre_P6,Non-responder,Pre,P6,NK,0.0
-Pre_P7,Responder,Pre,P7,NK,0.010869565217391304
-Pre_P8,Responder,Pre,P8,NK,0.18726591760299627
+Pre_P7,Responder,Pre,P7,NK,0.005434782608695652
+Pre_P8,Responder,Pre,P8,NK,0.21348314606741572
 Post_P1,Responder,Post,P1,Plasma,0.0
-Post_P10,Non-responder,Post,P10,Plasma,0.012626262626262626
+Post_P10,Non-responder,Post,P10,Plasma,0.03535353535353535
 Post_P11,Non-responder,Post,P11,Plasma,0.0
 Post_P12,Non-responder,Post,P12,Plasma,0.0
 Post_P13,Non-responder,Post,P13,Plasma,0.0
@@ -250,17 +250,17 @@ Post_P16,Non-responder,Post,P16,Plasma,0.004319654427645789
 Post_P17,Responder,Post,P17,Plasma,0.06761565836298933
 Post_P18,Non-responder,Post,P18,Plasma,0.0056022408963585435
 Post_P19,Responder,Post,P19,Plasma,0.0024813895781637717
-Post_P1_2,Non-responder,Post,P1,Plasma,0.0
+Post_P1_2,Non-responder,Post,P1,Plasma,0.002849002849002849
 Post_P2,Non-responder,Post,P2,Plasma,0.013404825737265416
-Post_P20,Non-responder,Post,P20,Plasma,0.002793296089385475
-Post_P21,Responder,Post,P21,Plasma,0.051643192488262914
+Post_P20,Non-responder,Post,P20,Plasma,0.00558659217877095
+Post_P21,Responder,Post,P21,Plasma,0.16901408450704225
 Post_P22,Non-responder,Post,P22,Plasma,0.007692307692307693
 Post_P23,Non-responder,Post,P23,Plasma,0.002793296089385475
 Post_P23_2,Non-responder,Post,P23,Plasma,0.013812154696132596
 Post_P28,Non-responder,Post,P28,Plasma,0.0
 Post_P28_2,Non-responder,Post,P28,Plasma,0.0
 Post_P3,Non-responder,Post,P3,Plasma,0.0
-Post_P30,Non-responder,Post,P30,Plasma,0.0
+Post_P30,Non-responder,Post,P30,Plasma,0.0027100271002710027
 Post_P3_2,Non-responder,Post,P3,Plasma,0.0
 Post_P4,Responder,Post,P4,Plasma,0.004477611940298508
 Post_P5,Non-responder,Post,P5,Plasma,0.010273972602739725
@@ -269,309 +269,261 @@ Post_P6,Non-responder,Post,P6,Plasma,0.0175
 Post_P7,Responder,Post,P7,Plasma,0.0
 Post_P8,Responder,Post,P8,Plasma,0.004889975550122249
 Pre_P1,Responder,Pre,P1,Plasma,0.0
-Pre_P12,Non-responder,Pre,P12,Plasma,0.0
+Pre_P12,Non-responder,Pre,P12,Plasma,0.0030303030303030303
 Pre_P15,Non-responder,Pre,P15,Plasma,0.0
 Pre_P2,Non-responder,Pre,P2,Plasma,0.0030303030303030303
-Pre_P20,Non-responder,Pre,P20,Plasma,0.021671826625386997
+Pre_P20,Non-responder,Pre,P20,Plasma,0.02476780185758514
 Pre_P24,Responder,Pre,P24,Plasma,0.0
 Pre_P25,Non-responder,Pre,P25,Plasma,0.0
-Pre_P26,Responder,Pre,P26,Plasma,0.0
+Pre_P26,Responder,Pre,P26,Plasma,0.003003003003003003
 Pre_P27,Non-responder,Pre,P27,Plasma,0.0
 Pre_P28,Responder,Pre,P28,Plasma,0.0
-Pre_P29,Responder,Pre,P29,Plasma,0.012269938650306749
+Pre_P29,Responder,Pre,P29,Plasma,0.018404907975460124
 Pre_P3,Non-responder,Pre,P3,Plasma,0.0
 Pre_P31,Non-responder,Pre,P31,Plasma,0.0
 Pre_P33,Responder,Pre,P33,Plasma,0.008849557522123894
 Pre_P35,Responder,Pre,P35,Plasma,0.004201680672268907
 Pre_P4,Non-responder,Pre,P4,Plasma,0.0
-Pre_P6,Non-responder,Pre,P6,Plasma,0.14225941422594143
+Pre_P6,Non-responder,Pre,P6,Plasma,0.1589958158995816
 Pre_P7,Responder,Pre,P7,Plasma,0.0
 Pre_P8,Responder,Pre,P8,Plasma,0.0
-Post_P1,Responder,Post,P1,T cycling,0.10507246376811594
-Post_P10,Non-responder,Post,P10,T cycling,0.030303030303030304
+Post_P1,Responder,Post,P1,T cycling,0.09057971014492754
+Post_P10,Non-responder,Post,P10,T cycling,0.03282828282828283
 Post_P11,Non-responder,Post,P11,T cycling,0.01597444089456869
-Post_P12,Non-responder,Post,P12,T cycling,0.034055727554179564
-Post_P13,Non-responder,Post,P13,T cycling,0.008928571428571428
-Post_P14,Non-responder,Post,P14,T cycling,0.0243161094224924
-Post_P15,Non-responder,Post,P15,T cycling,0.03618421052631579
-Post_P16,Non-responder,Post,P16,T cycling,0.07127429805615551
+Post_P12,Non-responder,Post,P12,T cycling,0.03715170278637771
+Post_P13,Non-responder,Post,P13,T cycling,0.006696428571428571
+Post_P14,Non-responder,Post,P14,T cycling,0.02735562310030395
+Post_P15,Non-responder,Post,P15,T cycling,0.049342105263157895
+Post_P16,Non-responder,Post,P16,T cycling,0.07775377969762419
 Post_P17,Responder,Post,P17,T cycling,0.0
-Post_P18,Non-responder,Post,P18,T cycling,0.01680672268907563
+Post_P18,Non-responder,Post,P18,T cycling,0.011204481792717087
 Post_P19,Responder,Post,P19,T cycling,0.0
-Post_P1_2,Non-responder,Post,P1,T cycling,0.03418803418803419
-Post_P2,Non-responder,Post,P2,T cycling,0.03753351206434316
-Post_P20,Non-responder,Post,P20,T cycling,0.08659217877094973
+Post_P1_2,Non-responder,Post,P1,T cycling,0.06267806267806268
+Post_P2,Non-responder,Post,P2,T cycling,0.040214477211796246
+Post_P20,Non-responder,Post,P20,T cycling,0.1005586592178771
 Post_P21,Responder,Post,P21,T cycling,0.0
-Post_P22,Non-responder,Post,P22,T cycling,0.07307692307692308
-Post_P23,Non-responder,Post,P23,T cycling,0.06424581005586592
-Post_P23_2,Non-responder,Post,P23,T cycling,0.06906077348066299
-Post_P28,Non-responder,Post,P28,T cycling,0.005420054200542005
-Post_P28_2,Non-responder,Post,P28,T cycling,0.03763440860215054
-Post_P3,Non-responder,Post,P3,T cycling,0.025210084033613446
-Post_P30,Non-responder,Post,P30,T cycling,0.08401084010840108
-Post_P3_2,Non-responder,Post,P3,T cycling,0.008379888268156424
-Post_P4,Responder,Post,P4,T cycling,0.014925373134328358
-Post_P5,Non-responder,Post,P5,T cycling,0.0547945205479452
+Post_P22,Non-responder,Post,P22,T cycling,0.06538461538461539
+Post_P23,Non-responder,Post,P23,T cycling,0.0782122905027933
+Post_P23_2,Non-responder,Post,P23,T cycling,0.08011049723756906
+Post_P28,Non-responder,Post,P28,T cycling,0.008130081300813009
+Post_P28_2,Non-responder,Post,P28,T cycling,0.0456989247311828
+Post_P3,Non-responder,Post,P3,T cycling,0.028011204481792718
+Post_P30,Non-responder,Post,P30,T cycling,0.1002710027100271
+Post_P3_2,Non-responder,Post,P3,T cycling,0.025139664804469275
+Post_P4,Responder,Post,P4,T cycling,0.01791044776119403
+Post_P5,Non-responder,Post,P5,T cycling,0.07876712328767123
 Post_P5_2,Responder,Post,P5,T cycling,0.0
-Post_P6,Non-responder,Post,P6,T cycling,0.3775
-Post_P7,Responder,Post,P7,T cycling,0.025974025974025976
-Post_P8,Responder,Post,P8,T cycling,0.009779951100244499
-Pre_P1,Responder,Pre,P1,T cycling,0.017467248908296942
+Post_P6,Non-responder,Post,P6,T cycling,0.39
+Post_P7,Responder,Post,P7,T cycling,0.030303030303030304
+Post_P8,Responder,Post,P8,T cycling,0.012224938875305624
+Pre_P1,Responder,Pre,P1,T cycling,0.039301310043668124
 Pre_P12,Non-responder,Pre,P12,T cycling,0.012121212121212121
-Pre_P15,Non-responder,Pre,P15,T cycling,0.03289473684210526
-Pre_P2,Non-responder,Pre,P2,T cycling,0.06060606060606061
-Pre_P20,Non-responder,Pre,P20,T cycling,0.07120743034055728
+Pre_P15,Non-responder,Pre,P15,T cycling,0.046052631578947366
+Pre_P2,Non-responder,Pre,P2,T cycling,0.08484848484848485
+Pre_P20,Non-responder,Pre,P20,T cycling,0.10526315789473684
 Pre_P24,Responder,Pre,P24,T cycling,0.005917159763313609
-Pre_P25,Non-responder,Pre,P25,T cycling,0.018867924528301886
-Pre_P26,Responder,Pre,P26,T cycling,0.006006006006006006
-Pre_P27,Non-responder,Pre,P27,T cycling,0.029154518950437316
+Pre_P25,Non-responder,Pre,P25,T cycling,0.0215633423180593
+Pre_P26,Responder,Pre,P26,T cycling,0.009009009009009009
+Pre_P27,Non-responder,Pre,P27,T cycling,0.03206997084548105
 Pre_P28,Responder,Pre,P28,T cycling,0.0
-Pre_P29,Responder,Pre,P29,T cycling,0.024539877300613498
-Pre_P3,Non-responder,Pre,P3,T cycling,0.025210084033613446
-Pre_P31,Non-responder,Pre,P31,T cycling,0.08831908831908832
-Pre_P33,Responder,Pre,P33,T cycling,0.015486725663716814
+Pre_P29,Responder,Pre,P29,T cycling,0.012269938650306749
+Pre_P3,Non-responder,Pre,P3,T cycling,0.03361344537815126
+Pre_P31,Non-responder,Pre,P31,T cycling,0.10826210826210826
+Pre_P33,Responder,Pre,P33,T cycling,0.017699115044247787
 Pre_P35,Responder,Pre,P35,T cycling,0.0
-Pre_P4,Non-responder,Pre,P4,T cycling,0.03278688524590164
-Pre_P6,Non-responder,Pre,P6,T cycling,0.16317991631799164
+Pre_P4,Non-responder,Pre,P4,T cycling,0.06229508196721312
+Pre_P6,Non-responder,Pre,P6,T cycling,0.18410041841004185
 Pre_P7,Responder,Pre,P7,T cycling,0.002717391304347826
 Pre_P8,Responder,Pre,P8,T cycling,0.011235955056179775
-Post_P1,Responder,Post,P1,T memory-like (TCF7+),0.057971014492753624
-Post_P10,Non-responder,Post,P10,T memory-like (TCF7+),0.05303030303030303
-Post_P11,Non-responder,Post,P11,T memory-like (TCF7+),0.07667731629392971
-Post_P12,Non-responder,Post,P12,T memory-like (TCF7+),0.02476780185758514
-Post_P13,Non-responder,Post,P13,T memory-like (TCF7+),0.022321428571428572
-Post_P14,Non-responder,Post,P14,T memory-like (TCF7+),0.11854103343465046
-Post_P15,Non-responder,Post,P15,T memory-like (TCF7+),0.10197368421052631
-Post_P16,Non-responder,Post,P16,T memory-like (TCF7+),0.11879049676025918
-Post_P17,Responder,Post,P17,T memory-like (TCF7+),0.042704626334519574
-Post_P18,Non-responder,Post,P18,T memory-like (TCF7+),0.06722689075630252
-Post_P19,Responder,Post,P19,T memory-like (TCF7+),0.1687344913151365
-Post_P1_2,Non-responder,Post,P1,T memory-like (TCF7+),0.03133903133903134
-Post_P2,Non-responder,Post,P2,T memory-like (TCF7+),0.09651474530831099
-Post_P20,Non-responder,Post,P20,T memory-like (TCF7+),0.05027932960893855
-Post_P21,Responder,Post,P21,T memory-like (TCF7+),0.107981220657277
-Post_P22,Non-responder,Post,P22,T memory-like (TCF7+),0.05384615384615385
-Post_P23,Non-responder,Post,P23,T memory-like (TCF7+),0.05027932960893855
-Post_P23_2,Non-responder,Post,P23,T memory-like (TCF7+),0.06353591160220995
-Post_P28,Non-responder,Post,P28,T memory-like (TCF7+),0.01084010840108401
-Post_P28_2,Non-responder,Post,P28,T memory-like (TCF7+),0.10215053763440861
-Post_P3,Non-responder,Post,P3,T memory-like (TCF7+),0.226890756302521
-Post_P30,Non-responder,Post,P30,T memory-like (TCF7+),0.016260162601626018
-Post_P3_2,Non-responder,Post,P3,T memory-like (TCF7+),0.30726256983240224
-Post_P4,Responder,Post,P4,T memory-like (TCF7+),0.13582089552238805
-Post_P5,Non-responder,Post,P5,T memory-like (TCF7+),0.04794520547945205
-Post_P5_2,Responder,Post,P5,T memory-like (TCF7+),0.05952380952380952
-Post_P6,Non-responder,Post,P6,T memory-like (TCF7+),0.0075
-Post_P7,Responder,Post,P7,T memory-like (TCF7+),0.017316017316017316
-Post_P8,Responder,Post,P8,T memory-like (TCF7+),0.02689486552567237
-Pre_P1,Responder,Pre,P1,T memory-like (TCF7+),0.2663755458515284
-Pre_P12,Non-responder,Pre,P12,T memory-like (TCF7+),0.07272727272727272
-Pre_P15,Non-responder,Pre,P15,T memory-like (TCF7+),0.10855263157894737
-Pre_P2,Non-responder,Pre,P2,T memory-like (TCF7+),0.045454545454545456
-Pre_P20,Non-responder,Pre,P20,T memory-like (TCF7+),0.06501547987616099
-Pre_P24,Responder,Pre,P24,T memory-like (TCF7+),0.15680473372781065
-Pre_P25,Non-responder,Pre,P25,T memory-like (TCF7+),0.11590296495956873
-Pre_P26,Responder,Pre,P26,T memory-like (TCF7+),0.13213213213213212
-Pre_P27,Non-responder,Pre,P27,T memory-like (TCF7+),0.037900874635568516
-Pre_P28,Responder,Pre,P28,T memory-like (TCF7+),0.26706231454005935
-Pre_P29,Responder,Pre,P29,T memory-like (TCF7+),0.049079754601226995
-Pre_P3,Non-responder,Pre,P3,T memory-like (TCF7+),0.22268907563025211
-Pre_P31,Non-responder,Pre,P31,T memory-like (TCF7+),0.037037037037037035
-Pre_P33,Responder,Pre,P33,T memory-like (TCF7+),0.08849557522123894
-Pre_P35,Responder,Pre,P35,T memory-like (TCF7+),0.03361344537815126
-Pre_P4,Non-responder,Pre,P4,T memory-like (TCF7+),0.08524590163934426
-Pre_P6,Non-responder,Pre,P6,T memory-like (TCF7+),0.012552301255230125
-Pre_P7,Responder,Pre,P7,T memory-like (TCF7+),0.10869565217391304
-Pre_P8,Responder,Pre,P8,T memory-like (TCF7+),0.056179775280898875
-Post_P1,Responder,Post,P1,T mixed,0.48188405797101447
-Post_P10,Non-responder,Post,P10,T mixed,0.2777777777777778
-Post_P11,Non-responder,Post,P11,T mixed,0.5239616613418531
-Post_P12,Non-responder,Post,P12,T mixed,0.4458204334365325
-Post_P13,Non-responder,Post,P13,T mixed,0.30357142857142855
-Post_P14,Non-responder,Post,P14,T mixed,0.2948328267477204
+Post_P1,Responder,Post,P1,T memory-like (TCF7+),0.03985507246376811
+Post_P10,Non-responder,Post,P10,T memory-like (TCF7+),0.11616161616161616
+Post_P11,Non-responder,Post,P11,T memory-like (TCF7+),0.1597444089456869
+Post_P12,Non-responder,Post,P12,T memory-like (TCF7+),0.04643962848297214
+Post_P13,Non-responder,Post,P13,T memory-like (TCF7+),0.07142857142857142
+Post_P14,Non-responder,Post,P14,T memory-like (TCF7+),0.2127659574468085
+Post_P15,Non-responder,Post,P15,T memory-like (TCF7+),0.17434210526315788
+Post_P16,Non-responder,Post,P16,T memory-like (TCF7+),0.183585313174946
+Post_P17,Responder,Post,P17,T memory-like (TCF7+),0.21708185053380782
+Post_P18,Non-responder,Post,P18,T memory-like (TCF7+),0.15126050420168066
+Post_P19,Responder,Post,P19,T memory-like (TCF7+),0.23325062034739455
+Post_P1_2,Non-responder,Post,P1,T memory-like (TCF7+),0.09686609686609686
+Post_P2,Non-responder,Post,P2,T memory-like (TCF7+),0.13136729222520108
+Post_P20,Non-responder,Post,P20,T memory-like (TCF7+),0.12290502793296089
+Post_P21,Responder,Post,P21,T memory-like (TCF7+),0.3004694835680751
+Post_P22,Non-responder,Post,P22,T memory-like (TCF7+),0.05
+Post_P23,Non-responder,Post,P23,T memory-like (TCF7+),0.10335195530726257
+Post_P23_2,Non-responder,Post,P23,T memory-like (TCF7+),0.11602209944751381
+Post_P28,Non-responder,Post,P28,T memory-like (TCF7+),0.013550135501355014
+Post_P28_2,Non-responder,Post,P28,T memory-like (TCF7+),0.1478494623655914
+Post_P3,Non-responder,Post,P3,T memory-like (TCF7+),0.24089635854341737
+Post_P30,Non-responder,Post,P30,T memory-like (TCF7+),0.05962059620596206
+Post_P3_2,Non-responder,Post,P3,T memory-like (TCF7+),0.3268156424581006
+Post_P4,Responder,Post,P4,T memory-like (TCF7+),0.2044776119402985
+Post_P5,Non-responder,Post,P5,T memory-like (TCF7+),0.07876712328767123
+Post_P5_2,Responder,Post,P5,T memory-like (TCF7+),0.16666666666666666
+Post_P6,Non-responder,Post,P6,T memory-like (TCF7+),0.025
+Post_P7,Responder,Post,P7,T memory-like (TCF7+),0.09090909090909091
+Post_P8,Responder,Post,P8,T memory-like (TCF7+),0.11246943765281174
+Pre_P1,Responder,Pre,P1,T memory-like (TCF7+),0.33624454148471616
+Pre_P12,Non-responder,Pre,P12,T memory-like (TCF7+),0.09090909090909091
+Pre_P15,Non-responder,Pre,P15,T memory-like (TCF7+),0.14473684210526316
+Pre_P2,Non-responder,Pre,P2,T memory-like (TCF7+),0.051515151515151514
+Pre_P20,Non-responder,Pre,P20,T memory-like (TCF7+),0.13312693498452013
+Pre_P24,Responder,Pre,P24,T memory-like (TCF7+),0.4260355029585799
+Pre_P25,Non-responder,Pre,P25,T memory-like (TCF7+),0.11859838274932614
+Pre_P26,Responder,Pre,P26,T memory-like (TCF7+),0.13813813813813813
+Pre_P27,Non-responder,Pre,P27,T memory-like (TCF7+),0.11078717201166181
+Pre_P28,Responder,Pre,P28,T memory-like (TCF7+),0.314540059347181
+Pre_P29,Responder,Pre,P29,T memory-like (TCF7+),0.0736196319018405
+Pre_P3,Non-responder,Pre,P3,T memory-like (TCF7+),0.226890756302521
+Pre_P31,Non-responder,Pre,P31,T memory-like (TCF7+),0.09971509971509972
+Pre_P33,Responder,Pre,P33,T memory-like (TCF7+),0.37168141592920356
+Pre_P35,Responder,Pre,P35,T memory-like (TCF7+),0.15126050420168066
+Pre_P4,Non-responder,Pre,P4,T memory-like (TCF7+),0.12459016393442623
+Pre_P6,Non-responder,Pre,P6,T memory-like (TCF7+),0.058577405857740586
+Pre_P7,Responder,Pre,P7,T memory-like (TCF7+),0.23369565217391305
+Pre_P8,Responder,Pre,P8,T memory-like (TCF7+),0.25842696629213485
+Post_P1,Responder,Post,P1,T mixed,0.6594202898550725
+Post_P10,Non-responder,Post,P10,T mixed,0.36363636363636365
+Post_P11,Non-responder,Post,P11,T mixed,0.24920127795527156
+Post_P12,Non-responder,Post,P12,T mixed,0.2693498452012384
+Post_P13,Non-responder,Post,P13,T mixed,0.5111607142857143
+Post_P14,Non-responder,Post,P14,T mixed,0.23708206686930092
 Post_P15,Non-responder,Post,P15,T mixed,0.34210526315789475
-Post_P16,Non-responder,Post,P16,T mixed,0.36069114470842334
-Post_P17,Responder,Post,P17,T mixed,0.4875444839857651
-Post_P18,Non-responder,Post,P18,T mixed,0.30532212885154064
-Post_P19,Responder,Post,P19,T mixed,0.20099255583126552
-Post_P1_2,Non-responder,Post,P1,T mixed,0.39886039886039887
-Post_P2,Non-responder,Post,P2,T mixed,0.3297587131367292
-Post_P20,Non-responder,Post,P20,T mixed,0.21787709497206703
-Post_P21,Responder,Post,P21,T mixed,0.38967136150234744
+Post_P16,Non-responder,Post,P16,T mixed,0.3412526997840173
+Post_P17,Responder,Post,P17,T mixed,0.17793594306049823
+Post_P18,Non-responder,Post,P18,T mixed,0.21008403361344538
+Post_P19,Responder,Post,P19,T mixed,0.14392059553349876
+Post_P1_2,Non-responder,Post,P1,T mixed,0.3076923076923077
+Post_P2,Non-responder,Post,P2,T mixed,0.29222520107238603
+Post_P20,Non-responder,Post,P20,T mixed,0.4441340782122905
+Post_P21,Responder,Post,P21,T mixed,0.1643192488262911
 Post_P22,Non-responder,Post,P22,T mixed,0.6384615384615384
-Post_P23,Non-responder,Post,P23,T mixed,0.40782122905027934
-Post_P23_2,Non-responder,Post,P23,T mixed,0.4585635359116022
+Post_P23,Non-responder,Post,P23,T mixed,0.29329608938547486
+Post_P23_2,Non-responder,Post,P23,T mixed,0.3867403314917127
 Post_P28,Non-responder,Post,P28,T mixed,0.01084010840108401
-Post_P28_2,Non-responder,Post,P28,T mixed,0.2849462365591398
-Post_P3,Non-responder,Post,P3,T mixed,0.3025210084033613
-Post_P30,Non-responder,Post,P30,T mixed,0.3170731707317073
-Post_P3_2,Non-responder,Post,P3,T mixed,0.3016759776536313
-Post_P4,Responder,Post,P4,T mixed,0.2671641791044776
-Post_P5,Non-responder,Post,P5,T mixed,0.2808219178082192
-Post_P5_2,Responder,Post,P5,T mixed,0.5178571428571429
-Post_P6,Non-responder,Post,P6,T mixed,0.09
-Post_P7,Responder,Post,P7,T mixed,0.5021645021645021
-Post_P8,Responder,Post,P8,T mixed,0.3691931540342298
-Pre_P1,Responder,Pre,P1,T mixed,0.23580786026200873
-Pre_P12,Non-responder,Pre,P12,T mixed,0.27575757575757576
-Pre_P15,Non-responder,Pre,P15,T mixed,0.34210526315789475
-Pre_P2,Non-responder,Pre,P2,T mixed,0.23636363636363636
-Pre_P20,Non-responder,Pre,P20,T mixed,0.3157894736842105
-Pre_P24,Responder,Pre,P24,T mixed,0.6627218934911243
-Pre_P25,Non-responder,Pre,P25,T mixed,0.3881401617250674
-Pre_P26,Responder,Pre,P26,T mixed,0.13513513513513514
-Pre_P27,Non-responder,Pre,P27,T mixed,0.40233236151603496
-Pre_P28,Responder,Pre,P28,T mixed,0.3649851632047478
-Pre_P29,Responder,Pre,P29,T mixed,0.5276073619631901
-Pre_P3,Non-responder,Pre,P3,T mixed,0.25630252100840334
-Pre_P31,Non-responder,Pre,P31,T mixed,0.49002849002849
-Pre_P33,Responder,Pre,P33,T mixed,0.5752212389380531
-Pre_P35,Responder,Pre,P35,T mixed,0.28991596638655465
-Pre_P4,Non-responder,Pre,P4,T mixed,0.17049180327868851
-Pre_P6,Non-responder,Pre,P6,T mixed,0.08786610878661087
-Pre_P7,Responder,Pre,P7,T mixed,0.5190217391304348
-Pre_P8,Responder,Pre,P8,T mixed,0.44569288389513106
-Post_P1,Responder,Post,P1,Treg,0.13768115942028986
-Post_P10,Non-responder,Post,P10,Treg,0.09848484848484848
-Post_P11,Non-responder,Post,P11,Treg,0.01597444089456869
-Post_P12,Non-responder,Post,P12,Treg,0.07430340557275542
-Post_P13,Non-responder,Post,P13,Treg,0.05133928571428571
-Post_P14,Non-responder,Post,P14,Treg,0.0364741641337386
-Post_P15,Non-responder,Post,P15,Treg,0.1875
-Post_P16,Non-responder,Post,P16,Treg,0.06479481641468683
-Post_P17,Responder,Post,P17,Treg,0.02491103202846975
-Post_P18,Non-responder,Post,P18,Treg,0.04481792717086835
-Post_P19,Responder,Post,P19,Treg,0.04218362282878412
-Post_P1_2,Non-responder,Post,P1,Treg,0.08262108262108261
-Post_P2,Non-responder,Post,P2,Treg,0.1126005361930295
-Post_P20,Non-responder,Post,P20,Treg,0.13128491620111732
+Post_P28_2,Non-responder,Post,P28,T mixed,0.2661290322580645
+Post_P3,Non-responder,Post,P3,T mixed,0.27450980392156865
+Post_P30,Non-responder,Post,P30,T mixed,0.2899728997289973
+Post_P3_2,Non-responder,Post,P3,T mixed,0.26536312849162014
+Post_P4,Responder,Post,P4,T mixed,0.31343283582089554
+Post_P5,Non-responder,Post,P5,T mixed,0.21232876712328766
+Post_P5_2,Responder,Post,P5,T mixed,0.2916666666666667
+Post_P6,Non-responder,Post,P6,T mixed,0.1675
+Post_P7,Responder,Post,P7,T mixed,0.38095238095238093
+Post_P8,Responder,Post,P8,T mixed,0.35207823960880197
+Pre_P1,Responder,Pre,P1,T mixed,0.24017467248908297
+Pre_P12,Non-responder,Pre,P12,T mixed,0.12727272727272726
+Pre_P15,Non-responder,Pre,P15,T mixed,0.3256578947368421
+Pre_P2,Non-responder,Pre,P2,T mixed,0.21818181818181817
+Pre_P20,Non-responder,Pre,P20,T mixed,0.24458204334365324
+Pre_P24,Responder,Pre,P24,T mixed,0.34911242603550297
+Pre_P25,Non-responder,Pre,P25,T mixed,0.22911051212938005
+Pre_P26,Responder,Pre,P26,T mixed,0.15615615615615616
+Pre_P27,Non-responder,Pre,P27,T mixed,0.2303206997084548
+Pre_P28,Responder,Pre,P28,T mixed,0.32344213649851633
+Pre_P29,Responder,Pre,P29,T mixed,0.4539877300613497
+Pre_P3,Non-responder,Pre,P3,T mixed,0.23949579831932774
+Pre_P31,Non-responder,Pre,P31,T mixed,0.28774928774928776
+Pre_P33,Responder,Pre,P33,T mixed,0.32079646017699115
+Pre_P35,Responder,Pre,P35,T mixed,0.1638655462184874
+Pre_P4,Non-responder,Pre,P4,T mixed,0.14754098360655737
+Pre_P6,Non-responder,Pre,P6,T mixed,0.0794979079497908
+Pre_P7,Responder,Pre,P7,T mixed,0.35054347826086957
+Pre_P8,Responder,Pre,P8,T mixed,0.19850187265917604
+Post_P1,Responder,Post,P1,Treg,0.025362318840579712
+Post_P10,Non-responder,Post,P10,Treg,0.08080808080808081
+Post_P11,Non-responder,Post,P11,Treg,0.003194888178913738
+Post_P12,Non-responder,Post,P12,Treg,0.05572755417956656
+Post_P13,Non-responder,Post,P13,Treg,0.03571428571428571
+Post_P14,Non-responder,Post,P14,Treg,0.015197568389057751
+Post_P15,Non-responder,Post,P15,Treg,0.11513157894736842
+Post_P16,Non-responder,Post,P16,Treg,0.0367170626349892
+Post_P17,Responder,Post,P17,Treg,0.0071174377224199285
+Post_P18,Non-responder,Post,P18,Treg,0.0196078431372549
+Post_P19,Responder,Post,P19,Treg,0.022332506203473945
+Post_P1_2,Non-responder,Post,P1,Treg,0.04843304843304843
+Post_P2,Non-responder,Post,P2,Treg,0.08042895442359249
+Post_P20,Non-responder,Post,P20,Treg,0.08379888268156424
 Post_P21,Responder,Post,P21,Treg,0.018779342723004695
-Post_P22,Non-responder,Post,P22,Treg,0.03076923076923077
-Post_P23,Non-responder,Post,P23,Treg,0.07541899441340782
-Post_P23_2,Non-responder,Post,P23,Treg,0.0856353591160221
-Post_P28,Non-responder,Post,P28,Treg,0.008130081300813009
-Post_P28_2,Non-responder,Post,P28,Treg,0.1478494623655914
-Post_P3,Non-responder,Post,P3,Treg,0.12324929971988796
-Post_P30,Non-responder,Post,P30,Treg,0.1111111111111111
-Post_P3_2,Non-responder,Post,P3,Treg,0.05865921787709497
-Post_P4,Responder,Post,P4,Treg,0.08208955223880597
-Post_P5,Non-responder,Post,P5,Treg,0.10273972602739725
-Post_P5_2,Responder,Post,P5,Treg,0.03273809523809524
-Post_P6,Non-responder,Post,P6,Treg,0.08
-Post_P7,Responder,Post,P7,Treg,0.06926406926406926
-Post_P8,Responder,Post,P8,Treg,0.02444987775061125
-Pre_P1,Responder,Pre,P1,Treg,0.09170305676855896
-Pre_P12,Non-responder,Pre,P12,Treg,0.051515151515151514
-Pre_P15,Non-responder,Pre,P15,Treg,0.16776315789473684
-Pre_P2,Non-responder,Pre,P2,Treg,0.1
-Pre_P20,Non-responder,Pre,P20,Treg,0.058823529411764705
-Pre_P24,Responder,Pre,P24,Treg,0.04437869822485207
-Pre_P25,Non-responder,Pre,P25,Treg,0.04582210242587601
-Pre_P26,Responder,Pre,P26,Treg,0.07507507507507508
-Pre_P27,Non-responder,Pre,P27,Treg,0.06705539358600583
-Pre_P28,Responder,Pre,P28,Treg,0.142433234421365
-Pre_P29,Responder,Pre,P29,Treg,0.10429447852760736
-Pre_P3,Non-responder,Pre,P3,Treg,0.07563025210084033
-Pre_P31,Non-responder,Pre,P31,Treg,0.05413105413105413
-Pre_P33,Responder,Pre,P33,Treg,0.06415929203539823
-Pre_P35,Responder,Pre,P35,Treg,0.037815126050420166
-Pre_P4,Non-responder,Pre,P4,Treg,0.029508196721311476
-Pre_P6,Non-responder,Pre,P6,Treg,0.06694560669456066
-Pre_P7,Responder,Pre,P7,Treg,0.13043478260869565
-Pre_P8,Responder,Pre,P8,Treg,0.00749063670411985
-Post_P1,Responder,Post,P1,Unclear (T+myeloid),0.0
-Post_P10,Non-responder,Post,P10,Unclear (T+myeloid),0.0
-Post_P11,Non-responder,Post,P11,Unclear (T+myeloid),0.0
-Post_P12,Non-responder,Post,P12,Unclear (T+myeloid),0.009287925696594427
-Post_P13,Non-responder,Post,P13,Unclear (T+myeloid),0.0
-Post_P14,Non-responder,Post,P14,Unclear (T+myeloid),0.00303951367781155
-Post_P15,Non-responder,Post,P15,Unclear (T+myeloid),0.006578947368421052
-Post_P16,Non-responder,Post,P16,Unclear (T+myeloid),0.023758099352051837
-Post_P17,Responder,Post,P17,Unclear (T+myeloid),0.07829181494661921
-Post_P18,Non-responder,Post,P18,Unclear (T+myeloid),0.011204481792717087
-Post_P19,Responder,Post,P19,Unclear (T+myeloid),0.02481389578163772
-Post_P1_2,Non-responder,Post,P1,Unclear (T+myeloid),0.002849002849002849
-Post_P2,Non-responder,Post,P2,Unclear (T+myeloid),0.005361930294906166
-Post_P20,Non-responder,Post,P20,Unclear (T+myeloid),0.0
-Post_P21,Responder,Post,P21,Unclear (T+myeloid),0.004694835680751174
-Post_P22,Non-responder,Post,P22,Unclear (T+myeloid),0.015384615384615385
-Post_P23,Non-responder,Post,P23,Unclear (T+myeloid),0.00558659217877095
-Post_P23_2,Non-responder,Post,P23,Unclear (T+myeloid),0.0027624309392265192
-Post_P28,Non-responder,Post,P28,Unclear (T+myeloid),0.018970189701897018
-Post_P28_2,Non-responder,Post,P28,Unclear (T+myeloid),0.002688172043010753
-Post_P3,Non-responder,Post,P3,Unclear (T+myeloid),0.011204481792717087
-Post_P30,Non-responder,Post,P30,Unclear (T+myeloid),0.0027100271002710027
-Post_P3_2,Non-responder,Post,P3,Unclear (T+myeloid),0.002793296089385475
-Post_P4,Responder,Post,P4,Unclear (T+myeloid),0.0014925373134328358
-Post_P5,Non-responder,Post,P5,Unclear (T+myeloid),0.0
-Post_P5_2,Responder,Post,P5,Unclear (T+myeloid),0.0
-Post_P6,Non-responder,Post,P6,Unclear (T+myeloid),0.0
-Post_P7,Responder,Post,P7,Unclear (T+myeloid),0.0
-Post_P8,Responder,Post,P8,Unclear (T+myeloid),0.0
-Pre_P1,Responder,Pre,P1,Unclear (T+myeloid),0.004366812227074236
-Pre_P12,Non-responder,Pre,P12,Unclear (T+myeloid),0.0
-Pre_P15,Non-responder,Pre,P15,Unclear (T+myeloid),0.003289473684210526
-Pre_P2,Non-responder,Pre,P2,Unclear (T+myeloid),0.0
-Pre_P20,Non-responder,Pre,P20,Unclear (T+myeloid),0.0030959752321981426
-Pre_P24,Responder,Pre,P24,Unclear (T+myeloid),0.0029585798816568047
-Pre_P25,Non-responder,Pre,P25,Unclear (T+myeloid),0.0
-Pre_P26,Responder,Pre,P26,Unclear (T+myeloid),0.0
-Pre_P27,Non-responder,Pre,P27,Unclear (T+myeloid),0.0
-Pre_P28,Responder,Pre,P28,Unclear (T+myeloid),0.0
-Pre_P29,Responder,Pre,P29,Unclear (T+myeloid),0.0
-Pre_P3,Non-responder,Pre,P3,Unclear (T+myeloid),0.0
-Pre_P31,Non-responder,Pre,P31,Unclear (T+myeloid),0.0
-Pre_P33,Responder,Pre,P33,Unclear (T+myeloid),0.0
-Pre_P35,Responder,Pre,P35,Unclear (T+myeloid),0.0
-Pre_P4,Non-responder,Pre,P4,Unclear (T+myeloid),0.0
-Pre_P6,Non-responder,Pre,P6,Unclear (T+myeloid),0.0
-Pre_P7,Responder,Pre,P7,Unclear (T+myeloid),0.0
-Pre_P8,Responder,Pre,P8,Unclear (T+myeloid),0.0
-Post_P1,Responder,Post,P1,pDC,0.007246376811594203
+Post_P22,Non-responder,Post,P22,Treg,0.011538461538461539
+Post_P23,Non-responder,Post,P23,Treg,0.04189944134078212
+Post_P23_2,Non-responder,Post,P23,Treg,0.04419889502762431
+Post_P28,Non-responder,Post,P28,Treg,0.0027100271002710027
+Post_P28_2,Non-responder,Post,P28,Treg,0.06451612903225806
+Post_P3,Non-responder,Post,P3,Treg,0.058823529411764705
+Post_P30,Non-responder,Post,P30,Treg,0.056910569105691054
+Post_P3_2,Non-responder,Post,P3,Treg,0.036312849162011177
+Post_P4,Responder,Post,P4,Treg,0.03731343283582089
+Post_P5,Non-responder,Post,P5,Treg,0.07534246575342465
+Post_P5_2,Responder,Post,P5,Treg,0.020833333333333332
+Post_P6,Non-responder,Post,P6,Treg,0.0775
+Post_P7,Responder,Post,P7,Treg,0.03896103896103896
+Post_P8,Responder,Post,P8,Treg,0.022004889975550123
+Pre_P1,Responder,Pre,P1,Treg,0.06550218340611354
+Pre_P12,Non-responder,Pre,P12,Treg,0.045454545454545456
+Pre_P15,Non-responder,Pre,P15,Treg,0.10855263157894737
+Pre_P2,Non-responder,Pre,P2,Treg,0.0696969696969697
+Pre_P20,Non-responder,Pre,P20,Treg,0.04643962848297214
+Pre_P24,Responder,Pre,P24,Treg,0.01775147928994083
+Pre_P25,Non-responder,Pre,P25,Treg,0.0215633423180593
+Pre_P26,Responder,Pre,P26,Treg,0.04504504504504504
+Pre_P27,Non-responder,Pre,P27,Treg,0.04664723032069971
+Pre_P28,Responder,Pre,P28,Treg,0.0712166172106825
+Pre_P29,Responder,Pre,P29,Treg,0.05521472392638037
+Pre_P3,Non-responder,Pre,P3,Treg,0.037815126050420166
+Pre_P31,Non-responder,Pre,P31,Treg,0.045584045584045586
+Pre_P33,Responder,Pre,P33,Treg,0.01991150442477876
+Pre_P35,Responder,Pre,P35,Treg,0.02100840336134454
+Pre_P4,Non-responder,Pre,P4,Treg,0.009836065573770493
+Pre_P6,Non-responder,Pre,P6,Treg,0.0502092050209205
+Pre_P7,Responder,Pre,P7,Treg,0.08695652173913043
+Pre_P8,Responder,Pre,P8,Treg,0.0
+Post_P1,Responder,Post,P1,pDC,0.0036231884057971015
 Post_P10,Non-responder,Post,P10,pDC,0.05808080808080808
 Post_P11,Non-responder,Post,P11,pDC,0.003194888178913738
 Post_P12,Non-responder,Post,P12,pDC,0.0030959752321981426
 Post_P13,Non-responder,Post,P13,pDC,0.004464285714285714
-Post_P14,Non-responder,Post,P14,pDC,0.0121580547112462
+Post_P14,Non-responder,Post,P14,pDC,0.0060790273556231
 Post_P15,Non-responder,Post,P15,pDC,0.023026315789473683
-Post_P16,Non-responder,Post,P16,pDC,0.10583153347732181
+Post_P16,Non-responder,Post,P16,pDC,0.10367170626349892
 Post_P17,Responder,Post,P17,pDC,0.0
 Post_P18,Non-responder,Post,P18,pDC,0.0056022408963585435
 Post_P19,Responder,Post,P19,pDC,0.05459057071960298
-Post_P1_2,Non-responder,Post,P1,pDC,0.008547008547008548
+Post_P1_2,Non-responder,Post,P1,pDC,0.005698005698005698
 Post_P2,Non-responder,Post,P2,pDC,0.002680965147453083
 Post_P20,Non-responder,Post,P20,pDC,0.0446927374301676
 Post_P21,Responder,Post,P21,pDC,0.0
 Post_P22,Non-responder,Post,P22,pDC,0.0038461538461538464
-Post_P23,Non-responder,Post,P23,pDC,0.013966480446927373
-Post_P23_2,Non-responder,Post,P23,pDC,0.008287292817679558
+Post_P23,Non-responder,Post,P23,pDC,0.0111731843575419
+Post_P23_2,Non-responder,Post,P23,pDC,0.0027624309392265192
 Post_P28,Non-responder,Post,P28,pDC,0.0
 Post_P28_2,Non-responder,Post,P28,pDC,0.005376344086021506
 Post_P3,Non-responder,Post,P3,pDC,0.0028011204481792717
-Post_P30,Non-responder,Post,P30,pDC,0.03523035230352303
+Post_P30,Non-responder,Post,P30,pDC,0.032520325203252036
 Post_P3_2,Non-responder,Post,P3,pDC,0.019553072625698324
 Post_P4,Responder,Post,P4,pDC,0.010447761194029851
 Post_P5,Non-responder,Post,P5,pDC,0.00684931506849315
 Post_P5_2,Responder,Post,P5,pDC,0.0
-Post_P6,Non-responder,Post,P6,pDC,0.085
-Post_P7,Responder,Post,P7,pDC,0.004329004329004329
+Post_P6,Non-responder,Post,P6,pDC,0.0825
+Post_P7,Responder,Post,P7,pDC,0.0
 Post_P8,Responder,Post,P8,pDC,0.004889975550122249
 Pre_P1,Responder,Pre,P1,pDC,0.013100436681222707
 Pre_P12,Non-responder,Pre,P12,pDC,0.04242424242424243
 Pre_P15,Non-responder,Pre,P15,pDC,0.019736842105263157
 Pre_P2,Non-responder,Pre,P2,pDC,0.0030303030303030303
-Pre_P20,Non-responder,Pre,P20,pDC,0.015479876160990712
+Pre_P20,Non-responder,Pre,P20,pDC,0.009287925696594427
 Pre_P24,Responder,Pre,P24,pDC,0.008875739644970414
 Pre_P25,Non-responder,Pre,P25,pDC,0.0
 Pre_P26,Responder,Pre,P26,pDC,0.006006006006006006
-Pre_P27,Non-responder,Pre,P27,pDC,0.026239067055393587
+Pre_P27,Non-responder,Pre,P27,pDC,0.023323615160349854
 Pre_P28,Responder,Pre,P28,pDC,0.005934718100890208
 Pre_P29,Responder,Pre,P29,pDC,0.0
 Pre_P3,Non-responder,Pre,P3,pDC,0.012605042016806723
 Pre_P31,Non-responder,Pre,P31,pDC,0.011396011396011397
 Pre_P33,Responder,Pre,P33,pDC,0.0
 Pre_P35,Responder,Pre,P35,pDC,0.0
-Pre_P4,Non-responder,Pre,P4,pDC,0.03934426229508197
-Pre_P6,Non-responder,Pre,P6,pDC,0.06276150627615062
+Pre_P4,Non-responder,Pre,P4,pDC,0.036065573770491806
+Pre_P6,Non-responder,Pre,P6,pDC,0.058577405857740586
 Pre_P7,Responder,Pre,P7,pDC,0.0
 Pre_P8,Responder,Pre,P8,pDC,0.011235955056179775

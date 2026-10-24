@@ -17,6 +17,8 @@ SEED = 0
 adata = sc.read_h5ad(IN)
 
 # 1. Highly variable genes. flavor="seurat" works on log data (seurat_v3 needs counts).
+# It un-logs with expm1 internally; declaring base 2 makes it invert log2 correctly.
+adata.uns["log1p"] = {"base": 2}
 sc.pp.highly_variable_genes(adata, flavor="seurat", n_top_genes=2000)
 print(f"HVGs: {adata.var['highly_variable'].sum()}")
 
